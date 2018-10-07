@@ -1,5 +1,7 @@
+# Digital Learning Technology
+*The Technical University of Denmark, fall 2018*
 
-# vue_prototype
+## vue_prototype
 
 > A Vue.js project
 
